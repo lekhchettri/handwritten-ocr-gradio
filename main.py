@@ -1,3 +1,5 @@
+#Disclaimer: this is a copilot generated code, it doesn't work. Putting it out for no reason :)
+
 import gradio as gr
 from transformers import DonutProcessor, VisionEncoderDecoderModel
 from PIL import Image
